@@ -1,0 +1,11 @@
+section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2em;
+}
+
+article {
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 0.5em;
+}
