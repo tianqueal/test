@@ -13,6 +13,9 @@ export default function Layout() {
             <li>
               <Link to="/posts">Posts</Link>
             </li>
+            <li>
+              <Link to="/photos">Photos</Link>
+            </li>
           </ul>
         </nav>
       </header>
